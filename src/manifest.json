@@ -1,7 +1,7 @@
 {
-    "name": "tmui3.2",
-    "appid": "__UNI__F097BC1",
-    "description": "tmui3.0新一代组件库，拥抱vue3,pinia,tmui3.0 demo展示应用",
+    "name": "旅小助商城",
+    "appid": "__UNI__F5385D8",
+    "description": "旅小助使用Uniapp+Vue3技术驱动的在线商城系统。",
     "versionName": "3.2.0",
     "versionCode": 320,
     "transformPx": false,
@@ -107,7 +107,7 @@
         "lazyCodeLoading": "requiredComponents",
         "mergeVirtualHostAttributes":true,
         "darkmode": false,
-        "appid": "wxa97ca08b1ed46b0a",
+        "appid": "wxe161f8384b908527",
         "setting": {
             "urlCheck": false,
             "es6": true,
@@ -124,7 +124,7 @@
         "uniStatistics": {
             "enable": false
         },
-        "appid": "2019042364306232"
+        "appid": "2019092967932268"
     },
     "mp-baidu": {
         "usingComponents": true,
@@ -155,10 +155,10 @@
         "uniStatistics": {
             "enable": false
         },
-        "title": "tmui3.0",
+        "title": "旅小助",
         "router": {
-            "mode": "hash",
-            "base": "/h5/"
+            "mode": "history",
+            "base": "/"
         },
         "optimization": {
             "treeShaking": {
